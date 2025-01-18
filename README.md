@@ -1,9 +1,9 @@
-Aparentemente eu sei fazer programas em C. Eu sei. Eu sou horrível.
-
 O que você tentou resolver aqui?
 -
 
-Criar uma aplicação funcional de criar e fazer manutenção de uma árvore AVL implementando um dicionário português. Inserindo palavras e significados e garantindo o balanceamento dinamico da arvore após cada operação. E realizar operações básicas do dicionario que são:
+implementar um dicionário português, utilizando uma arvore AVL. Inserindo palavras e significados e garantindo o balanceamento dinamico que arvore tem após cada operação. E também realizar operações básicas do dicionario que são:
+
+criar a arvore, inserir, imprimir a arvore e sua altura, deletar e buscar uma palavra especifica.
 
 só pra constar, o código é em português e tudo, mas isso não impede de você fazer inserções em outros idiomas. Não existe um algoritmo que identifica línguas.
 
